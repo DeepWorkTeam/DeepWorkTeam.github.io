@@ -19,13 +19,13 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    sal:
-      name:           Sal
-      site:           https://deepwork.team
+    laoer:
+      name:           laoer
+      site:           https://shier.pro
       avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
-      email:          wowthemesnet@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+      bio:            "Hi, I am laoer, the member of DeepWork.Team!"
+      email:          qiujialaoer@gmail.com
+
 
 
  
